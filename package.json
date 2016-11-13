@@ -4,6 +4,9 @@
   "description": "Simple todo application.",
   "main": "app.js",
   "author": "Scotch",
+  "engines": {
+    "node": "6.6.0"
+  },
   "dependencies": {
     "body-parser": "^1.13.3",
     "express": "^4.13.4",
