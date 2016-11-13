@@ -1,16 +1,16 @@
 # Node Todo App
 
-A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
+This demo app is adopted from Scott's tutorial at https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular.  The main objective for this demo is to show the following:
+1. How to deploy nodejs app to Azure 
+2. Azure MongoDB service can work with existing MongoDB and driver (mongoose in this case).
 
-Node provides the RESTful API. Angular provides the frontend and accesses the API. MongoDB stores like a hoarder.
 
 ## Requirements
 
 - [Node and npm](http://nodejs.org)
-- MongoDB: Make sure you have your own local or remote MongoDB database URI configured in `config/database.js`
+- MongoDB: This code is intended to use Azure MongoDB service.  You can use your own local or remote MongoDB database URI configured in `config/database.js`
 
 ## Installation
-
 1. Clone the repository: `git clone https://github.com/harrchen/ToDo_MEAN.git`
 2. Install the application: `npm install`
 3. Place your own MongoDB URI in `config/database.js`

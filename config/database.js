@@ -1,4 +1,4 @@
 module.exports = {
     //azure mongo db service
-    mongoUrl: 'mongodb://mongdbasservice1:PXuwRzskvaE5NPhW9Z4DGKKO7Xvppu3B60jjLEywG3l2CThn0nXHwPPJb8TF0qYhOocnwEmckRbJaVezbxnEzA==@mongdbasservice1.documents.azure.com:10250/?ssl=true'
+    mongoUrl: 'mongodb://docdbasmongo:RDJtyEW1KQc814bLyUuPG7U1ojc8a7OidQqCv0rbRUYzXy7570PETDefmi5q3BxV7N7nP4Zuqh9Z4kMDVBctJA==@docdbasmongo.documents.azure.com:10250/?ssl=true'
 };
