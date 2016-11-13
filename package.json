@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Simple todo application.",
   "main": "app.js",
-  "author": "Scotch",
+  "author": "Adapted from Scotch",
   "engines": {
     "node": "6.6.0"
   },
